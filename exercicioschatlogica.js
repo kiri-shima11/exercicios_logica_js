@@ -259,11 +259,6 @@ if (opcao == sair){
     alert ('Você saiu.');
 }}
 
-if (opcao != jogar && creditos && sair){
-    alert ('Você digitou um número inválido');
-}
-
-
 // ==========================================
 // DESAFIO FINAL
 // ==========================================
